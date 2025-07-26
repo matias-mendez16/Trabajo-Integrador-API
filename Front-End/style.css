@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&display=swap');
+
+.fondoLetra {
+    background-color: #181823;
+    font-family: "Goldman", sans-serif;
+}
+
+.imgLogo {
+    display: flex;
+    margin-top: -1px;
+    margin-bottom: -60px;
+    margin-left: 38%;
+    height: 300px;
+    width: 300px;
+}
+
+.title {
+    margin-top: 2%;
+    margin-left: 34%;
+    margin-bottom: 60px;
+    color: #f97316;
+    font-weight: bold;
+}
+
+.card {
+    background-color: #181823 !important;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: white;
+    border: 1px solid #333;
+    border-radius: 12px;
+    overflow: hidden;
+    width: 300px;
+}
+
+.imgCard {
+    border-radius: 30px;
+    max-width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.imgCard:hover {
+    transform: scale(1.4);
+}
+
+.modal-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #181823;
+    color: #f97316;
+}
+
+.modal-header {
+    background-color: #181823;
+    margin-bottom: -1px;
+}
+
+.modal-backdrop.show {
+    backdrop-filter: blur(50px);
+    background-color: rgba(24, 24, 35, -0.1); 
+}
+
+.btn-close {
+    background-color: #f97316 !important;
+}
+
+.btn-primary {
+    background-color: #181823 !important;
+    border-color: #181823 !important;
+}
+
+.titleModal {
+    color: #f97316;
+    text-align: center;
+    width: 100%;
+}
+
+.nameCharacter {
+    color: #f97316;
+    margin-top: 55px;
+    margin-bottom: 60px;
+}
+
+.marginModal {
+    margin-bottom: 20px;
+    border-radius: 30px;
+}
+
+.filtros {
+    height: 40px;
+    border-color: #f97316 !important;
+    background-color: #f97316 !important;
+    color: #00425a !important;
+    text-align: center;
+    font-weight: bold !important;
+}
+
+.barraBusqueda {
+    height: 40px;
+    border-color: #f97316 !important;
+    background-color: #f97316 !important;
+    color: #00425a !important;
+    text-align: center;
+    font-weight: bold !important;
+}
+
+.barraBusqueda::placeholder {
+    color: #00425a !important;
+}
+
+.btn-outline-success,
+.btn-outline-warning,
+.btn-outline-info {
+    color: #00425a !important;
+    background-color: #f97316 !important;
+    border: none !important;
+    font-weight: bold !important;
+}
+
+.btn-outline-success:hover,
+.btn-outline-warning:hover,
+.btn-outline-info:hover {
+    background-color: #fb923c !important;
+    color: #00425a !important;
+}
+
+#formBuscarId input,
+#formBuscarId button {
+    width: 100%;
+}
+
+#verTodos {
+    width: 100%;
+    height: 40px;
+}
