@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "nombre": "Call of Duty: Modern Warfare II",
+    "genero": "Disparos",
+    "fechaLanzamiento": "28-10-2022",
+    "desarrollador": "Infinity Ward",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962660/header.jpg?t=1710969334"
+  },
+  {
+    "id": 2,
+    "nombre": "Call of Duty: Black Ops Cold War",
+    "genero": "Disparos",
+    "fechaLanzamiento": "13-11-2020",
+    "desarrollador": "Treyarch",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg?t=1731607699"
+  },
+  {
+    "id": 3,
+    "nombre": "Call of Duty: Warzone",
+    "genero": "Disparos",
+    "fechaLanzamiento": "10-03-2020",
+    "desarrollador": "Raven Software",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1962663/54bd6a40eb3759aca46966aadd4c4d0d84b2713e/header.jpg?t=1748534520"
+  },
+  {
+    "id": 4,
+    "nombre": "Halo Infinite",
+    "genero": "Disparos",
+    "fechaLanzamiento": "08-12-2021",
+    "desarrollador": "343 Industries",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1240440/f4a1aa85f94a3874d46df2e2ae65fb96a7a11c4f/header.jpg?t=1751997587"
+  },
+  {
+    "id": 5,
+    "nombre": "Battlefield 2042",
+    "genero": "Disparos",
+    "fechaLanzamiento": "19-11-2021",
+    "desarrollador": "DICE",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg?t=1748912112"
+  },
+  {
+    "id": 6,
+    "nombre": "Doom Eternal",
+    "genero": "Disparos",
+    "fechaLanzamiento": "20-03-2020",
+    "desarrollador": "id Software",
+    "multijugador": false,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/782330/header.jpg?t=1749758044"
+  },
+  {
+    "id": 7,
+    "nombre": "Far Cry 6",
+    "genero": "Disparos",
+    "fechaLanzamiento": "07-10-2021",
+    "desarrollador": "Ubisoft Toronto",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2369390/header.jpg?t=1752169605"
+  },
+  {
+    "id": 8,
+    "nombre": "Metro Exodus",
+    "genero": "Disparos",
+    "fechaLanzamiento": "15-02-2019",
+    "desarrollador": "4A Games",
+    "multijugador": false,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/412020/header.jpg?t=1750772804"
+  },
+  {
+    "id": 9,
+    "nombre": "Titanfall 2",
+    "genero": "Disparos",
+    "fechaLanzamiento": "28-10-2016",
+    "desarrollador": "Respawn Entertainment",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg?t=1726160226"
+  },
+  {
+    "id": 10,
+    "nombre": "Overwatch",
+    "genero": "Disparos",
+    "fechaLanzamiento": "24-05-2016",
+    "desarrollador": "Blizzard Entertainment",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2357570/2d0bce22993cc2ad3166d376c71709811b1fb6de/header_alt_assets_12.jpg?t=1750792786"
+  },
+  {
+    "id": 11,
+    "nombre": "Sonic Frontiers",
+    "genero": "Aventura",
+    "fechaLanzamiento": "07-11-2022",
+    "desarrollador": "Sega",
+    "multijugador": false,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1237320/header.jpg?t=1741795892"
+  },
+  {
+    "id": 12,
+    "nombre": "Uncharted 4: A Thief's End",
+    "genero": "Aventura",
+    "fechaLanzamiento": "10-05-2016",
+    "desarrollador": "Naughty Dog",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1659420/header_spanish.jpg?t=1751913411"
+  },
+  {
+    "id": 13,
+    "nombre": "Assassin's Creed Odyssey",
+    "genero": "Aventura",
+    "fechaLanzamiento": "05-10-2018",
+    "desarrollador": "Ubisoft",
+    "multijugador": false,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/812140/header.jpg?t=1751969408"
+  },
+  {
+    "id": 14,
+    "nombre": "Tomb Raider",
+    "genero": "Aventura",
+    "fechaLanzamiento": "05-03-2013",
+    "desarrollador": "Crystal Dynamics",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/203160/header.jpg?t=1729010886"
+  },
+  {
+    "id": 15,
+    "nombre": "Red Dead Redemption 2",
+    "genero": "Aventura",
+    "fechaLanzamiento": "26-10-2018",
+    "desarrollador": "Rockstar Games",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1720558643"
+  },
+  {
+    "id": 16,
+    "nombre": "Horizon Zero Dawn",
+    "genero": "Aventura",
+    "fechaLanzamiento": "28-02-2017",
+    "desarrollador": "Guerrilla Games",
+    "multijugador": false,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2561580/header.jpg?t=1750952943"
+  },
+  {
+    "id": 17,
+    "nombre": "Ghost of Tsushima",
+    "genero": "Aventura",
+    "fechaLanzamiento": "17-07-2020",
+    "desarrollador": "Sucker Punch Productions",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1750948552"
+  },
+  {
+    "id": 18,
+    "nombre": "It Takes Two",
+    "genero": "Aventura",
+    "fechaLanzamiento": "26-03-2021",
+    "desarrollador": "Hazelight Studios",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/header_spanish.jpg?t=1749142249"
+  },
+  {
+    "id": 19,
+    "nombre": "Firewatch",
+    "genero": "Aventura",
+    "fechaLanzamiento": "09-02-2016",
+    "desarrollador": "Campo Santo",
+    "multijugador": false,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/383870/header.jpg?t=1738795199"
+  },
+  {
+    "id": 20,
+    "nombre": "Life is Strange",
+    "genero": "Aventura",
+    "fechaLanzamiento": "30-01-2015",
+    "desarrollador": "Dontnod Entertainment",
+    "multijugador": false,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/319630/header.jpg?t=1724158918"
+  },
+  {
+    "id": 21,
+    "nombre": "Mortal Kombat 11",
+    "genero": "Lucha",
+    "fechaLanzamiento": "23-04-2019",
+    "desarrollador": "NetherRealm Studios",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/header.jpg?t=1747925751"
+  },
+  {
+    "id": 22,
+    "nombre": "Mortal Kombat X",
+    "genero": "Lucha",
+    "fechaLanzamiento": "14-04-2015",
+    "desarrollador": "NetherRealm Studios",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/307780/header.jpg?t=1745535169"
+  },
+  {
+    "id": 23,
+    "nombre": "Street Fighter V",
+    "genero": "Lucha",
+    "fechaLanzamiento": "16-02-2016",
+    "desarrollador": "Capcom",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/310950/header.jpg?t=1705467952"
+  },
+  {
+    "id": 24,
+    "nombre": "Street Fighter 6",
+    "genero": "Lucha",
+    "fechaLanzamiento": "02-06-2023",
+    "desarrollador": "Capcom",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1752042402"
+  },
+  {
+    "id": 25,
+    "nombre": "Tekken 7",
+    "genero": "Lucha",
+    "fechaLanzamiento": "02-06-2017",
+    "desarrollador": "Bandai Namco",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/389730/header.jpg?t=1737674502"
+  },
+  {
+    "id": 26,
+    "nombre": "Dragon Ball FighterZ",
+    "genero": "Lucha",
+    "fechaLanzamiento": "26-01-2018",
+    "desarrollador": "Arc System Works",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/678950/header.jpg?t=1733508969"
+  },
+  {
+    "id": 27,
+    "nombre": "Injustice 2",
+    "genero": "Lucha",
+    "fechaLanzamiento": "16-05-2017",
+    "desarrollador": "NetherRealm Studios",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/627270/header.jpg?t=1745536404"
+  },
+  {
+    "id": 28,
+    "nombre": "SoulCalibur VI",
+    "genero": "Lucha",
+    "fechaLanzamiento": "19-10-2018",
+    "desarrollador": "Bandai Namco Studios",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/544750/header.jpg?t=1718967845"
+  },
+  {
+    "id": 29,
+    "nombre": "Guilty Gear -Strive-",
+    "genero": "Lucha",
+    "fechaLanzamiento": "11-06-2021",
+    "desarrollador": "Arc System Works",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1384160/header.jpg?t=1748483857"
+  },
+  {
+    "id": 30,
+    "nombre": "Brawlhalla",
+    "genero": "Lucha",
+    "fechaLanzamiento": "17-10-2017",
+    "desarrollador": "Blue Mammoth Games",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/291550/71448f1f413d5aac25b8dd08068f0f284f7bacf7/header.jpg?t=1747253897"
+  },
+  {
+    "id": 31,
+    "nombre": "Forza Horizon 5",
+    "genero": "Carreras",
+    "fechaLanzamiento": "09-11-2021",
+    "desarrollador": "Playground Games",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1746471508"
+  },
+  {
+    "id": 32,
+    "nombre": "Le Mans Ultimate",
+    "genero": "Carreras",
+    "fechaLanzamiento": "20-02-2024",
+    "desarrollador": "Studio 397",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399420/header.jpg?t=1752581573"
+  },
+  {
+    "id": 33,
+    "nombre": "F1 25",
+    "genero": "Carreras",
+    "fechaLanzamiento": "30-05-2025",
+    "desarrollador": "Codemasters",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3059520/37f833ca5bd3d5c3eec2b411131f3e00f580bbe7/header.jpg?t=1752276447"
+  },
+  {
+    "id": 34,
+    "nombre": "Need for Speed Heat",
+    "genero": "Carreras",
+    "fechaLanzamiento": "08-11-2019",
+    "desarrollador": "Ghost Games",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1716831270"
+  },
+  {
+    "id": 35,
+    "nombre": "Sonic Racing: CrossWorlds",
+    "genero": "Carreras",
+    "fechaLanzamiento": "25-09-2025",
+    "desarrollador": "Nintendo",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2486820/header.jpg?t=1750924256"
+  },
+  {
+    "id": 36,
+    "nombre": "Assetto Corsa",
+    "genero": "Carreras",
+    "fechaLanzamiento": "19-12-2014",
+    "desarrollador": "Kunos Simulazioni",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg?t=1730473196"
+  },
+  {
+    "id": 37,
+    "nombre": "Project CARS 3",
+    "genero": "Carreras",
+    "fechaLanzamiento": "27-08-2020",
+    "desarrollador": "Slightly Mad Studios",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/958400/header.jpg?t=1654679925"
+  },
+  {
+    "id": 38,
+    "nombre": "Need for Speed Unbound",
+    "genero": "Carreras",
+    "fechaLanzamiento": "02-12-2022",
+    "desarrollador": "Criterion Games",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1846380/header.jpg?t=1748950270"
+  },
+  {
+    "id": 39,
+    "nombre": "Dirt 5",
+    "genero": "Carreras",
+    "fechaLanzamiento": "06-11-2020",
+    "desarrollador": "Codemasters",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1038250/header.jpg?t=1663755334"
+  },
+  {
+    "id": 40,
+    "nombre": "The Crew 2",
+    "genero": "Carreras",
+    "fechaLanzamiento": "29-06-29",
+    "desarrollador": "Ivory Tower",
+    "multijugador": true,
+    "portada": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/646910/header.jpg?t=1736258631"
+  }
+]
